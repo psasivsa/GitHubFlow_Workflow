@@ -1,6 +1,8 @@
-# GitHub Flow
+# [GitHub Flow](https://docs.github.com/es/get-started/using-github/github-flow)
 
 > Esta estrategia es muy utilizada especialmente en proyectos de código abierto
+
+![](images/GitHubFlow.png)
 
 GitHub Flow es un flujo de trabajo sencillo y efectivo para gestionar proyectos de software utilizando GitHub. Se basa en las siguientes etapas clave:
 
